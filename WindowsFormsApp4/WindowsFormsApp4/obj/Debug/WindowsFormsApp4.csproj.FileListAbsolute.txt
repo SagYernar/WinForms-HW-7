@@ -1,0 +1,21 @@
+c:\users\ернар\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+c:\users\ернар\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+c:\users\ернар\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+c:\users\ернар\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Homework_WF.GasolineStation.resources
+c:\users\ернар\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+c:\users\ернар\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.Cache
+c:\users\ернар\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+c:\users\ернар\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+c:\users\ернар\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+c:\users\ернар\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\cash .jpg
+C:\Users\Ернар\Desktop\WinForms-HW-5-master\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\cash .jpg
+C:\Users\Ернар\Desktop\WinForms-HW-5-master\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Ернар\Desktop\WinForms-HW-5-master\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Ернар\Desktop\WinForms-HW-5-master\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Ернар\Desktop\WinForms-HW-5-master\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojResolveAssemblyReference.cache
+C:\Users\Ернар\Desktop\WinForms-HW-5-master\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\Homework_WF.GasolineStation.resources
+C:\Users\Ернар\Desktop\WinForms-HW-5-master\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Ернар\Desktop\WinForms-HW-5-master\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.Cache
+C:\Users\Ернар\Desktop\WinForms-HW-5-master\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Ернар\Desktop\WinForms-HW-5-master\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Ернар\Desktop\WinForms-HW-5-master\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
